@@ -184,9 +184,6 @@ fig5.show()
 """##Dashboard
 
 """
-
-!pip install jupyter_dash
-
 import pandas as pd
 from jupyter_dash import JupyterDash
 from dash import dcc, html, Dash, Input, Output
